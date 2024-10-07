@@ -26,5 +26,5 @@ public class App {
         {
             System.out.println("Et voittanut.");
         }
-    }
+    } //Hyvää Juhannusta
 }
